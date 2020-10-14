@@ -22,4 +22,3 @@ after_success:
 - docker push ankitcagarwal/multi-nginx
 - docker push ankitcagarwal/multi-server
 - docker push ankitcagarwal/multi-worker
-
